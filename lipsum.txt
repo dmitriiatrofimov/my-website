@@ -1,0 +1,5 @@
+When you are on a project page, you can press the Download ZIP button which is located under the green <> Code drop down:
+
+This allows you to download the most recent version of the code as a zip archive.
+
+If you aren't seeing that button, it is likely because you aren't on the main project page. To get there, click on the left-most tab labeled <> Code.
